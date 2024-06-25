@@ -1,0 +1,9 @@
+.table-image {
+    width: 100px;
+    height: 100px;
+    object-fit: cover; /* Ensures the image covers the area without distortion */
+    border-radius: 50%; /* Makes the image circular if the width and height are equal */
+  }
+
+  /* Add this to your CSS file or in a <style> tag in your HTML file */
+
