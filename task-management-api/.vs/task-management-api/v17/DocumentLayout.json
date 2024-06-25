@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Try 2\\task-management-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|d:\\try 2\\task-management-api\\task-management-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|solutionrelative:task-management-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|d:\\try 2\\task-management-api\\task-management-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|solutionrelative:task-management-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|d:\\try 2\\task-management-api\\task-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|solutionrelative:task-management-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|d:\\try 2\\task-management-api\\task-management-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|solutionrelative:task-management-api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|d:\\try 2\\task-management-api\\task-management-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|solutionrelative:task-management-api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|d:\\try 2\\task-management-api\\task-management-api\\models\\boarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0CED744-0011-40B2-AB31-FF324F481D4F}|task-management-api\\task-management-api.csproj|solutionrelative:task-management-api\\models\\boarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Try 2\\task-management-api\\task-management-api\\Dockerfile",
+              "RelativeDocumentMoniker": "task-management-api\\Dockerfile",
+              "ToolTip": "D:\\Try 2\\task-management-api\\task-management-api\\Dockerfile",
+              "RelativeToolTip": "task-management-api\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-20T10:33:13.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BoardDTO.cs",
+              "DocumentMoniker": "D:\\Try 2\\task-management-api\\task-management-api\\Models\\BoardDTO.cs",
+              "RelativeDocumentMoniker": "task-management-api\\Models\\BoardDTO.cs",
+              "ToolTip": "D:\\Try 2\\task-management-api\\task-management-api\\Models\\BoardDTO.cs",
+              "RelativeToolTip": "task-management-api\\Models\\BoardDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:21:35.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Try 2\\task-management-api\\task-management-api\\appsettings.json",
+              "RelativeDocumentMoniker": "task-management-api\\appsettings.json",
+              "ToolTip": "D:\\Try 2\\task-management-api\\task-management-api\\appsettings.json",
+              "RelativeToolTip": "task-management-api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T11:56:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Try 2\\task-management-api\\task-management-api\\Program.cs",
+              "RelativeDocumentMoniker": "task-management-api\\Program.cs",
+              "ToolTip": "D:\\Try 2\\task-management-api\\task-management-api\\Program.cs",
+              "RelativeToolTip": "task-management-api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T12:09:13.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Try 2\\task-management-api\\task-management-api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "task-management-api\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Try 2\\task-management-api\\task-management-api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "task-management-api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:55:39.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Try 2\\task-management-api\\task-management-api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "task-management-api\\Models\\User.cs",
+              "ToolTip": "D:\\Try 2\\task-management-api\\task-management-api\\Models\\User.cs",
+              "RelativeToolTip": "task-management-api\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T11:52:39.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
